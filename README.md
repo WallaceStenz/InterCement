@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/Logo_InterCement.png" alt="InterCement" width="380">
-</p>
-
 <h1 align="center">Case Técnico – Analista de Inteligência de Mercado e Precificação</h1>
 
 <p align="center">
